@@ -4,6 +4,7 @@
     Sources: https://en.wikipedia.org/wiki/Dart_(programming_language), https://dart.dev/language
              https://dart.dev/
              https://api.flutter.dev/flutter/dart-core/Runes-class.html
+             https://flutter.dev/
 
 Intro/Background:  
 
@@ -29,7 +30,9 @@ Runes:
     final runes = string.runes.toList();
     print(runes); // [68, 97, 114, 116]
 
-Flutter: ...
+Flutter: 
+    
+    Dart is the primary language used by Flutter, which is a framework heavily used in building mobile apps. Flutter's development stems into applications compatible with mobile, web, desktop, and other embedded software. This means that Dart is a language that has great cross platform potential. Dart is heavily utilized by Google software and applications "Connect to Google's app development ecosystem, allowing you to streamline development and reach a wider audience through seamless integration with Firebase, Google Ads, Google Play, Google Pay, Google Wallet, Google Maps, and more."
     
 Sets:
 

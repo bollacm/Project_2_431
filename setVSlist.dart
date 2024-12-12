@@ -1,5 +1,5 @@
 /*
-illistrate when the use of a set is more appropriate than a list
+illustrate when the use of a set is more appropriate than a list
 verifieing if somthing exists in a list is O(n) while in a set is O(1)
 */
 
