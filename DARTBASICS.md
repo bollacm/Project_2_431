@@ -1,10 +1,16 @@
 
 # DART BASICS
 
-    Sources: https://en.wikipedia.org/wiki/Dart_(programming_language), https://dart.dev/language
-             https://dart.dev/
-             https://api.flutter.dev/flutter/dart-core/Runes-class.html
-             https://flutter.dev/
+## Sources
+
+**Dart Wikipedia**
+    <https://en.wikipedia.org/wiki/Dart_(programming_language)>
+**Dart Website**
+    <https://dart.dev/language>
+    <https://dart.dev/>
+**Flutter Site**
+<https://api.flutter.dev/flutter/dart-core/Runes-class.html>
+<https://flutter.dev/>
 
 ## Intro/Background
 

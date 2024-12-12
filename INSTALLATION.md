@@ -4,8 +4,8 @@ Reference(<https://dart.dev/get-dart#install>)
 
 ## 1. Installation Specs for LINUX
 
-    Stable Support for (X64, Arm32, Arm64 and RISC-V (RV64GC),
-    Deprecated for IA32(x86)
+Stable Support for (X64, Arm32, Arm64 and RISC-V (RV64GC),
+Deprecated for IA32(x86)
 
 ## 2. Use apt-get command, make sure it is updated and has http
 
