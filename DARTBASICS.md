@@ -3,14 +3,10 @@
 
 ## Sources
 
-**Dart Wikipedia**
-    <https://en.wikipedia.org/wiki/Dart_(programming_language)>
-**Dart Website**
-    <https://dart.dev/language>
-    <https://dart.dev/>
-**Flutter Site**
-<https://api.flutter.dev/flutter/dart-core/Runes-class.html>
-<https://flutter.dev/>
+[Dart Wikipedia](https://en.wikipedia.org/wiki/Dart_(programming_language))  
+[Dart Website](https://dart.dev/language)  
+[Flutter Runes Site](https://api.flutter.dev/flutter/dart-core/Runes-class.html)  
+[Flutter Site](https://flutter.dev/)
 
 ## Intro/Background
 

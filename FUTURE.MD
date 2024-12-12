@@ -1,7 +1,7 @@
 
 # Future of Dart
 
-  The future for Dart seems that it has a lot of potential, considering its current standing of usage within the scope of application building. Dart is still receiving support and updates semi-monthly, with Dart 3.6 just being announced December 11th, the day this segment was written. Dart 3.6 promises some new features:
+The future for Dart seems that it has a lot of potential, considering its current standing of usage within the scope of application building. Dart is still receiving support and updates semi-monthly, with Dart 3.6 just being announced December 11th, the day this segment was written. Dart 3.6 promises some new features:
 
 ## Pub Workspaces
 
